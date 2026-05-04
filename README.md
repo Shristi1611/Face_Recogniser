@@ -18,7 +18,7 @@ haarcascade_frontalface_default.xml: Pre-trained Haar Cascade model for face det
 
 data/: Directory where captured face samples are stored (local only).
 
-# 📝 How to Use
+# How to Use
 Generate Dataset: Run the first module to capture 200 grayscale samples via webcam.
 
 Train Classifier: Run the second module to train the LBPH recognizer and save it as classifier.xml.
